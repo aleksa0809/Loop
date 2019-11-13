@@ -1,0 +1,11 @@
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2.deps.json
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2.runtimeconfig.json
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2.runtimeconfig.dev.json
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2.dll
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/bin/Debug/netcoreapp3.0/myapp2.pdb
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/obj/Debug/netcoreapp3.0/myapp2.csprojAssemblyReference.cache
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/obj/Debug/netcoreapp3.0/myapp2.AssemblyInfoInputs.cache
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/obj/Debug/netcoreapp3.0/myapp2.AssemblyInfo.cs
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/obj/Debug/netcoreapp3.0/myapp2.dll
+/Users/aleksandrasagitova/Desktop/Tsilk/myapp2/obj/Debug/netcoreapp3.0/myapp2.pdb
